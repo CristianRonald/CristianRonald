@@ -1,4 +1,4 @@
-<h2 align="left">Profile 🙎</h2>
+<h2 align="center">Profile 🙎</h2>
 
 ###
 
