@@ -1,7 +1,7 @@
 
 <h2 align="center"> Profile🙎 </h2>
 <div>
-  <img height="50" src="https://www.svgrepo.com/show/489934/facebook.svg"  />
+  <img height="10" src="https://www.svgrepo.com/show/489934/facebook.svg"  />
 </div>
 
 <h4 align="left">About me 🦖</h4>
