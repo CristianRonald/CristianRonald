@@ -3,6 +3,7 @@
 
 
 <h4 align="left">About me 🦖
+  <br>
   <a href="https://web.facebook.com/CristianPortaGodoy/"> <img height="20" top="5" src="https://www.svgrepo.com/show/489934/facebook.svg"/></a>
   <a href="mailto:porta.cristianlo@gmail.com"> <img height="20" top="5" src="https://www.svgrepo.com/show/452213/gmail.svg" /></a>
 </h4>
