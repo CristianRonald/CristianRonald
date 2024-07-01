@@ -1,11 +1,11 @@
 
 <h2 align="center"> Profile🙎 </h2>
+
+
+<h4 align="left">About me 🦖</h4>
 <div>
   <img height="30" src="https://www.svgrepo.com/show/489934/facebook.svg"  />
 </div>
-
-<h4 align="left">About me 🦖</h4>
-
 ###
 
 <p align="center">Hi, I'm a programmer dedicated to web, mobile and desktop software development.</p>
