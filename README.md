@@ -2,6 +2,14 @@
 
 ###
 
+  [![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
+  [![Badge](https://img.shields.io/github/forks/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/network)
+  [![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
+
+###
+
+###
+
 <h4 align="left">About me 🦖</h4>
 
 ###
