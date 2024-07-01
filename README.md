@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
+# Welcome to my GitHub Profile!
+
 ## About Me
 <div style="background-color: #f0f0f0; padding: 10px;">
   I am a passionate developer with experience in web development, data science, and open source contributions.
@@ -13,6 +15,15 @@
     <li><strong>Tools:</strong> Git, Docker, VS Code</li>
   </ul>
 </div>
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects
 <div style="background-color: #e0e0e0; padding: 10px;">
@@ -28,6 +39,8 @@
     <a href="https://linkedin.com/in/username">LinkedIn</a> |
     <a href="https://twitter.com/username">Twitter</a>
   </p>
+</div>
+
 </div>
 ## GitHub Stats
 
