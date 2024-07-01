@@ -2,9 +2,9 @@
 <h2 align="center"> Profile🙎 </h2>
 
 
-<h4 align="left">About me 🦖</h4>
+<h4 align="left">About me 🦖 <img height="30" src="https://www.svgrepo.com/show/489934/facebook.svg"  /></h4>
 <div>
-  <img height="30" src="https://www.svgrepo.com/show/489934/facebook.svg"  />
+  
 </div>
 
 ###
