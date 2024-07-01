@@ -1,6 +1,6 @@
 
 <h2 align="center"> Profile🙎 </h2> 
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourfacebookprofile)
+  [![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.svgrepo.com/show/489934/facebook.svg))](https://www.facebook.com/yourfacebookprofile)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourgmailaddress@gmail.com)
 
 <h4 align="left">About me 🦖</h4>
